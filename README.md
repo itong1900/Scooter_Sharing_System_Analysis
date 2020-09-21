@@ -16,3 +16,16 @@ If you're curious you can find the original datasets at the following links
 * Washington DC: https://www.capitalbikeshare.com/system-data
 * Chicago: https://www.divvybikes.com/system-data
 * Daily Summary: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+
+## Sections
+The whole analysis project is divided into two sections, parsing the scooter's usage data from diversed perspectives in different methods.
+
+Section I will include the following:
+1. Preliminary Data Analysis
+2. Hypothesis Testing
+3. Gaussian Mixture Models of Trip Durations
+4. Causality and Experiment Design
+
+Section II will include the following:
+1. Simulation in Bandits Method
+2. Data Privacy Discussion
