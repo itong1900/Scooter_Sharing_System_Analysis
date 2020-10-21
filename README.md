@@ -23,7 +23,7 @@ The whole analysis project is divided into two sections, parsing the scooter's u
 ### Section I will include the following:
 1. Preliminary Data Analysis
 2. Hypothesis Testing
-3. Gaussian Mixture Models of Trip Durations
+3. Expectation Maximization Algorithm with Gaussian Mixture Models on Trip Durations
 4. Causality and Experiment Design
 
 ### Section II will include the following:
