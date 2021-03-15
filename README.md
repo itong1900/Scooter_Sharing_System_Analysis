@@ -18,12 +18,12 @@ If you're curious you can find the original datasets at the following links
 ## Sections
 The whole analysis project is divided into two sections, parsing the scooter's usage data from diversed perspectives in different methods.
 
-### Section I will include the following:
+### Section-I will include the following:
 1. Preliminary Data Analysis
 2. Hypothesis Testing
 3. Expectation Maximization Algorithm with Gaussian Mixture Models on Trip Durations
 4. Causality and Experiment Design
 
-### Section II will include the following:
+### Section-II will include the following:
 1. Reinforcement Learning with Multi-Armed Bandits Method
 2. Data Privacy Discussion
