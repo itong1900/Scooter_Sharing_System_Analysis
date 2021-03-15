@@ -1,11 +1,9 @@
 # Scooter_Sharing_System_Analysis
 
-This also a final project of UC Berkeley course Data102 Fall-2019.
 
 ## Setup
-You've been tasked with analyzing the public datasets released by three bike sharing com- 
-panies in New York, Washington DC, and Chicago. Another data scientist has helpfully
-preprocessed the dataset for you in four files that can be found here: https://github.com/ds-102/fa19/tree/master/project/bikeshare.zip.
+This project is about analyzing the public datasets released by three bike sharing companies in New York, Washington DC, and Chicago. Another data scientist has helpfully
+preprocessed the dataset four files that can be found here: https://github.com/ds-102/fa19/tree/master/project/bikeshare.zip.
 The ny.csv, chicago.csv, and dc.csv each contain the bike rentals that occurred in 2016
 in their respective cities with each row representing a single rental.
 The day.csv dataset contains daily bike rental information between the years 2011 and
